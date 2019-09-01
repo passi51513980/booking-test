@@ -1,4 +1,4 @@
 [{
-    "name":"Manish","password":"Bansal"
+    "name":"admin","password":"admin", "allowed":"true"
 },
-{"name":"Ruchi","password":"Goel"}]
+{"name":"user","password":"user",  "allowed":"false"}]
